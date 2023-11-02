@@ -17,7 +17,7 @@ Currently I have solved: 10 / 75
 |------------------------+------------------+------------|
 | LeetCode Name & Number | Theme            | Difficulty |
 |------------------------+------------------+------------|
-| Two Sum                | Arrays & Hashing | Easy       |
+| [Two Sum](https://github.com/racoelhosilva/LeetCode/blob/master/Grind75/ArraysHashing/TwoSum.cpp)            | Arrays & Hashing | Easy       |
 |                        |                  |            |
 |                        |                  |            |
 |                        |                  |            |
