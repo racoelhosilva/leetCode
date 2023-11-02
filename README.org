@@ -1,0 +1,8 @@
+#+TITLE: LeetCode Solutions/Analysis
+#+AUTHOR: racoelhosilva
+#+DESCRIPTION: Collection of my solutions to LeetCode problems
+#+STARTUP: showeverything
+
+Collection of my solutions to LeetCode problems
+
+*** Table Of Contents :toc:
