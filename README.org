@@ -5,19 +5,16 @@
 
 Collection of my solutions to LeetCode problems
 
-** Table Of Contents :toc:
-  - [[#grind-75][Grind 75]]
-
 ** Grind 75
 
 Grind 75 is a collection of 75 LeetCode problems written by the same author of the Blind 75. The main difference is that this one offers an ordered list to practice.
 In this repository, I have my solutions to these problems, as well as some notes about them.
 Currently I have solved: 10 / 75
 
-|------------------------+------------------+------------|
-| LeetCode Name & Number | Theme            | Difficulty |
-|------------------------+------------------+------------|
-| [Two Sum](https://github.com/racoelhosilva/LeetCode/blob/master/Grind75/ArraysHashing/TwoSum.cpp)            | Arrays & Hashing | Easy       |
-|                        |                  |            |
-|                        |                  |            |
-|                        |                  |            |
+|---------------------------------------------------------------------------------------------------+------------------+------------|
+| LeetCode Name & Number                                                                            | Theme            | Difficulty |
+|---------------------------------------------------------------------------------------------------+------------------+------------|
+| [Two Sum](https://github.com/racoelhosilva/LeetCode/blob/master/Grind75/ArraysHashing/TwoSum.cpp) | Arrays & Hashing | Easy       |
+|                                                                                                   |                  |            |
+|                                                                                                   |                  |            |
+|                                                                                                   |                  |            |
