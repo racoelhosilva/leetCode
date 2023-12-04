@@ -6,7 +6,7 @@ int search(vector<int>& nums, int target) {
     int upperBound = nums.size() - 1;
 
     while (lowerBound <= upperBound){
-        int midValue = (lowerBound + upperBound) / 2;
+        int midValue = lowerBound + (upperBound - lowerBound) / 2;
 
         if (nums[midValue] < target){
             lowerBound = midValue + 1;
