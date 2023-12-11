@@ -7,9 +7,12 @@
 Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] problems
 #+END_QUOTE
 
-** Grind 75
+** Table of Contents :toc:
+  - [[#useful-links][Useful Links]]
 
-[[https://www.techinterviewhandbook.org/grind75][Grind 75]] is a collection of 75 LeetCode problems written by the same author of the Blind 75. The main difference is that this one offers an ordered list to practice.
-In this repository, I have my solutions to these problems, as well as some notes about them.
+** Useful Links
 
-Currently I have solved: 10 / 75
+**** Curated Problems
+
++ [[https://neetcode.io/practice][NeetCode 150]]: collection of 150 problems divided by topics with detailed video explanations and implementation examples in various programming languages
++ [[https://www.techinterviewhandbook.org/grind75?weeks=28&hours=40][Grind 75]]: collection of 75 problems ordered by difficulty. The website also provides a good way to schedule and track progress of these exercises
