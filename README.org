@@ -25,6 +25,29 @@ Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] 
 | Hard       |      0 |
 |------------+--------|
 
+|--------------------------+--------|
+| Topic                    | Number |
+|--------------------------+--------|
+| Arrays & Hashing         |      9 |
+| Backtracking             |      0 |
+| Binary Search            |      2 |
+| Binary Trees             |      9 |
+| Bit Manipulation         |      6 |
+| Dynamic Programming (1D) |      2 |
+| Dynamic Programming (2D) |      0 |
+| Graphs                   |      1 |
+| Graphs (Advanced)        |      0 |
+| Greedy                   |      0 |
+| Intervals                |      1 |
+| Linked Lists             |      5 |
+| Math & Geometry          |      4 |
+| Priority Queue           |      2 |
+| Sliding Window           |      1 |
+| Stack                    |      2 |
+| Tries                    |      0 |
+| Two Pointers             |      2 |
+|--------------------------+--------|
+
 *** Achievements
 
 |------------+---------------------------------------------------|
