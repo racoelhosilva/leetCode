@@ -52,7 +52,7 @@ Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] 
 | Total | 46 |
 |-------+----|
 
-*** Achievements
+*** Milestones and Achievements
 
 |------------+---------------------------------------------------|
 | Date       | Description                                       |
