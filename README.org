@@ -8,7 +8,31 @@ Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] 
 #+END_QUOTE
 
 ** Table of Contents :toc:
+  - [[#progress-tracking][Progress Tracking]]
   - [[#useful-links][Useful Links]]
+
+*Current Goal*: _format and review all easy exercises solved_
+
+** Progress Tracking
+
+*** Problems Solved
+
+|------------+--------|
+| Difficulty | Number |
+|------------+--------|
+| Easy       |     46 |
+| Medium     |      0 |
+| Hard       |      0 |
+|------------+--------|
+
+*** Achievements
+
+|------------+---------------------------------------------------|
+| Date       | Description                                       |
+|------------+---------------------------------------------------|
+| 02/11/2023 | Initialized the repository                        |
+| 04/12/2023 | Completed Grind75 and NeetCode150 *Easy* problems |
+|------------+---------------------------------------------------|
 
 ** Useful Links
 
