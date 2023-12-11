@@ -6,24 +6,16 @@
 #+BEGIN_QUOTE
 Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] problems
 #+END_QUOTE
+**** Current Goal: format and review all easy exercises solved
 
 ** Table of Contents :toc:
   - [[#progress-tracking][Progress Tracking]]
   - [[#useful-links][Useful Links]]
 
-*Current Goal*: _format and review all easy exercises solved_
-
 ** Progress Tracking
 
 *** Problems Solved
 
-|------------+--------|
-| Difficulty | Number |
-|------------+--------|
-| Easy       |     46 |
-| Medium     |      0 |
-| Hard       |      0 |
-|------------+--------|
 
 |--------------------------+--------|
 | Topic                    | Number |
@@ -46,6 +38,14 @@ Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] 
 | Stack                    |      2 |
 | Tries                    |      0 |
 | Two Pointers             |      2 |
+|--------------------------+--------|
+| Difficulty               | Number |
+|--------------------------+--------|
+| Easy                     |     46 |
+| Medium                   |      0 |
+| Hard                     |      0 |
+|--------------------------+--------|
+| Total                    |     46 |
 |--------------------------+--------|
 
 *** Achievements
