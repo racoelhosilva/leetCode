@@ -39,14 +39,18 @@ Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] 
 | Tries                    |      0 |
 | Two Pointers             |      2 |
 |--------------------------+--------|
-| Difficulty               | Number |
-|--------------------------+--------|
-| Easy                     |     46 |
-| Medium                   |      0 |
-| Hard                     |      0 |
-|--------------------------+--------|
-| Total                    |     46 |
-|--------------------------+--------|
+
+|------------+--------|
+| Difficulty | Number |
+|------------+--------|
+| Easy       |     46 |
+| Medium     |      0 |
+| Hard       |      0 |
+|------------+--------|
+
+|-------+----|
+| Total | 46 |
+|-------+----|
 
 *** Achievements
 
