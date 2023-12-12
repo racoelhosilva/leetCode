@@ -6,6 +6,8 @@
 #+BEGIN_QUOTE
 Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] problems
 #+END_QUOTE
+
+-----
 *** Current Goal: format and review all easy exercises solved
 
 ** Table of Contents :toc:
