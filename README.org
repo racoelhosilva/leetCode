@@ -9,7 +9,7 @@ Collection of my solutions to [[https://leetcode.com/racoelhosilva/][LeetCode]] 
 
 -----
 *** Current Goal: format and review all easy exercises solved
-
+-----
 ** Table of Contents :toc:
   - [[#progress-tracking][Progress Tracking]]
   - [[#milestones][Milestones]]
