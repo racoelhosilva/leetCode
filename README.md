@@ -2,6 +2,11 @@
 
 > Collection of my solutions to [LeetCode](https://leetcode.com) problems
 
+---
+### Current Goal: format and review all easy exercises solved  
+
+---
+
 ## Table of Contents
   - [Progress Tracking](#progress-tracking)
   - [Milestones](#milestones)
@@ -48,7 +53,14 @@
 ## Milestones
 
 | Date | Description |
-|------|-------------|
-|      |             |
+|:------:|:-------------|
+| 02/11/2023 | Initialized the repository |
+| 04/12/2023 | Completed Grind75 and NeetCode150 _Easy_ problems |
+| 16/12/2023 | Created scripts and reorganized file structure |
 
 ## Useful Links
+
+#### Curated Problems
+
+- **[NeetCode 150](https://neetcode.io/practice)**: a collection of 150 problems divided by topics with detailed video explanations and implementation examples in various programming languages
+- **[Grind 75](https://www.techinterviewhandbook.org/grind75?weeks=28&hours=40)**: a collection of 75 problems ordered by difficulty. The website also provides a good way to schedule and track the progress of these exercises
