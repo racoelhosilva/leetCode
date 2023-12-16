@@ -16,7 +16,7 @@
 
 ### Problems Solved
 
-| Total | 8 |
+| Total | 9 |
 |:---:|:---:|
 
 #### Search By Topic
@@ -30,7 +30,7 @@
 | Bit Manipulation | 0 |
 | Dynamic Programming (1D) | 0 |
 | Dynamic Programming (2D) | 0 |
-| Graphs | 0 |
+| Graphs | 1 |
 | Graphs (Advanced) | 0 |
 | Greedy | 0 |
 | Intervals | 0 |
@@ -46,7 +46,7 @@
 
 | Difficulty | Number |
 |:---|---:|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 0 |
 | Hard | 0 |
 
