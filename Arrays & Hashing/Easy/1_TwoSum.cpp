@@ -3,7 +3,7 @@
  * Name: Two Sum
  * Difficulty: Easy
  * Topic: Arrays & Hashing
- * Link: https://leetcode.com/problems/
+ * Link: https://leetcode.com/problems/two-sum/
  */
  
 #include <bits/stdc++.h>
