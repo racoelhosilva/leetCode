@@ -16,7 +16,7 @@
 
 ### Problems Solved
 
-| Total | 26 |
+| Total | 27 |
 |:---:|:---:|
 
 #### Search By Topic
@@ -40,13 +40,13 @@
 | Sliding Window | 1 |
 | Stack | 2 |
 | Tries | 0 |
-| Two Pointers | 1 |
+| Two Pointers | 2 |
 
 #### Search By Difficulty
 
 | Difficulty | Number |
 |:---|---:|
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 1 |
 | Hard | 0 |
 
