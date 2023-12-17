@@ -28,10 +28,10 @@
 | Binary Search | 2 |
 | Binary Trees | 3 |
 | Bit Manipulation | 0 |
-| Dynamic Programming (1D) | 0 |
-| Dynamic Programming (2D) | 0 |
+| Dynamic Programming 1D | 1 |
+| Dynamic Programming 2D | 0 |
 | Graphs | 1 |
-| Graphs (Advanced) | 0 |
+| Graphs Advanced | 0 |
 | Greedy | 0 |
 | Intervals | 0 |
 | Linked Lists | 2 |
