@@ -16,7 +16,7 @@
 
 ### Problems Solved
 
-| Total | 20 |
+| Total | 21 |
 |:---:|:---:|
 
 #### Search By Topic
@@ -26,7 +26,7 @@
 | Arrays & Hashing | 5 |
 | Backtracking | 0 |
 | Binary Search | 2 |
-| Binary Trees | 3 |
+| Binary Trees | 4 |
 | Bit Manipulation | 1 |
 | Dynamic Programming 1D | 1 |
 | Dynamic Programming 2D | 0 |
@@ -46,7 +46,7 @@
 
 | Difficulty | Number |
 |:---|---:|
-| Easy | 19 |
+| Easy | 20 |
 | Medium | 1 |
 | Hard | 0 |
 
