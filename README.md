@@ -16,14 +16,14 @@
 
 ### Problems Solved
 
-| Total | 16 |
+| Total | 17 |
 |:---:|:---:|
 
 #### Search By Topic
 
 | Topic | Number |
 |:---|---:|
-| Arrays & Hashing | 3 |
+| Arrays & Hashing | 4 |
 | Backtracking | 0 |
 | Binary Search | 2 |
 | Binary Trees | 3 |
@@ -46,7 +46,7 @@
 
 | Difficulty | Number |
 |:---|---:|
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 1 |
 | Hard | 0 |
 
