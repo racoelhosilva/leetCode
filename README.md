@@ -3,7 +3,7 @@
 > Collection of my solutions to [LeetCode](https://leetcode.com) problems
 
 ---
-### Current Goal: format and review all easy exercises solved  
+<p align="center"> <strong>Current Goal</strong>: format and review all <b><u>easy</u></b> exercises solved<p>  
 
 ---
 
