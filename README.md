@@ -16,7 +16,7 @@
 
 ### Problems Solved
 
-| Total | 15 |
+| Total | 16 |
 |:---:|:---:|
 
 #### Search By Topic
@@ -46,7 +46,7 @@
 
 | Difficulty | Number |
 |:---|---:|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 1 |
 | Hard | 0 |
 
