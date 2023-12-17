@@ -1,9 +1,9 @@
 # LeetCode Solutions/Analysis
 
-> Collection of my solutions to [LeetCode](https://leetcode.com) problems
+> Collection of my solutions to [LeetCode](https://leetcode.com/racoelhosilva) problems
 
 ---
-<p align="center"> <strong>Current Goal</strong>: format and review all <b><u>easy</u></b> exercises solved<p>  
+<p align="center"> <strong>Current Goal</strong>: format and review all <b>easy</b> exercises solved<p>  
 
 ---
 
@@ -64,3 +64,7 @@
 
 - **[NeetCode 150](https://neetcode.io/practice)**: a collection of 150 problems divided by topics with detailed video explanations and implementation examples in various programming languages
 - **[Grind 75](https://www.techinterviewhandbook.org/grind75?weeks=28&hours=40)**: a collection of 75 problems ordered by difficulty. The website also provides a good way to schedule and track the progress of these exercises
+
+#### Organization
+
+- **[Custom Scripts](https://github.com/racoelhosilva/scripts)**: a collection of my custom scripts (made in Bash). These include, among others, scripts for creating the folder structure, creating new files with headers and archiving them accordingly
