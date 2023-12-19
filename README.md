@@ -65,6 +65,10 @@
 - **[NeetCode 150](https://neetcode.io/practice)**: a collection of 150 problems divided by topics with detailed video explanations and implementation examples in various programming languages
 - **[Grind 75](https://www.techinterviewhandbook.org/grind75?weeks=28&hours=40)**: a collection of 75 problems ordered by difficulty. The website also provides a good way to schedule and track the progress of these exercises
 
+#### Learning Materials
+
+- **[Bit Manipulation Hacks](http://graphics.stanford.edu/~seander/bithacks.html)**: a collection of multiple Bit Twiddling hacks and tricks to execute various operations quickly
+
 #### Organization
 
 - **[Custom Scripts](https://github.com/racoelhosilva/scripts)**: a collection of my custom scripts (made in Bash). These include, among others, scripts for creating the folder structure, creating new files with headers and archiving them accordingly
