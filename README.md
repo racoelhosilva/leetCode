@@ -3,7 +3,7 @@
 > Collection of my solutions to [LeetCode](https://leetcode.com/racoelhosilva) problems
 
 ---
-<p align="center"> <strong>Current Goal</strong>: format and review all <b>easy</b> exercises solved<p>  
+<p align="center"> <strong>Current Goal</strong>: start solving medium-difficulty exercises across every topic<p>  
 
 ---
 
