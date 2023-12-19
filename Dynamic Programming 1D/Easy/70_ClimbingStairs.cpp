@@ -2,7 +2,7 @@
  * Problem: 70 
  * Name: Climbing Stairs
  * Difficulty: Easy
- * Topic: Dynamic Programming (1D)
+ * Topic: Dynamic Programming 1D
  * Link: https://leetcode.com/problems/climbing-stairs/
  */
  
