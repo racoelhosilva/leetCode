@@ -3,7 +3,7 @@
  * Name: Missing Number
  * Difficulty: Easy
  * Topic: Bit Manipulation
- * Link: https://leetcode.com/problems/
+ * Link: https://leetcode.com/problems/missing-number/
  */
  
 #include <bits/stdc++.h>
