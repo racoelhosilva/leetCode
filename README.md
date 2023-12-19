@@ -16,7 +16,7 @@
 
 ### Problems Solved
 
-| Total | 46 |
+| Total | 47 |
 |:---:|:---:|
 
 #### Search By Topic
@@ -32,7 +32,7 @@
 | Dynamic Programming 2D | 0 |
 | Graphs | 1 |
 | Graphs Advanced | 0 |
-| Greedy | 0 |
+| Greedy | 1 |
 | Intervals | 1 |
 | Linked Lists | 5 |
 | Math & Geometry | 4 |
@@ -47,7 +47,7 @@
 | Difficulty | Number |
 |:---|---:|
 | Easy | 45 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ## Milestones
