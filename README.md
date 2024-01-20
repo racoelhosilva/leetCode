@@ -16,7 +16,7 @@
 
 ### Problems Solved
 
-| Total | 47 |
+| Total | 48 |
 |:---:|:---:|
 
 #### Search By Topic
@@ -33,7 +33,7 @@
 | Graphs | 1 |
 | Graphs Advanced | 0 |
 | Greedy | 1 |
-| Intervals | 1 |
+| Intervals | 2 |
 | Linked Lists | 5 |
 | Math & Geometry | 4 |
 | Priority Queue | 2 |
@@ -47,7 +47,7 @@
 | Difficulty | Number |
 |:---|---:|
 | Easy | 45 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
 ## Milestones
