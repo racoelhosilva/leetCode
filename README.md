@@ -1,6 +1,6 @@
 # LeetCode Solutions/Analysis
 
-> Collection of my solutions to [LeetCode](https://leetcode.com/racoelhosilva) problems
+> Collection of my solutions to [LeetCode](https://leetcode.com/racoelhosilva) problems in C++
 
 ---
 <p align="center"> <strong>Current Goal</strong>: start solving medium-difficulty exercises across every topic<p>  
