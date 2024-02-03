@@ -16,7 +16,7 @@
 
 ### Problems Solved
 
-| Total | 49 |
+| Total | 50 |
 |:---:|:---:|
 
 #### Search By Topic
@@ -36,7 +36,7 @@
 | Intervals | 2 |
 | Linked Lists | 5 |
 | Math & Geometry | 4 |
-| Priority Queue | 2 |
+| Priority Queue | 3 |
 | Sliding Window | 1 |
 | Stack | 2 |
 | Tries | 0 |
@@ -47,7 +47,7 @@
 | Difficulty | Number |
 |:---|---:|
 | Easy | 45 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 0 |
 
 ## Milestones
