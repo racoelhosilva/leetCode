@@ -7,9 +7,6 @@
  */
  
 #include <bits/stdc++.h>
-#include <functional>
-#include <utility>
-#include <vector>
 using namespace std;
 
 //      Partial Sort Solution
