@@ -3,7 +3,7 @@
  * Name: K Closest Point To Origin
  * Difficulty: Medium
  * Topic: Priority Queue
- * Link: https://leetcode.com/problems/
+ * Link: https://leetcode.com/problems/k-closest-points-to-origin/
  */
  
 #include <bits/stdc++.h>
