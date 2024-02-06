@@ -1,11 +1,12 @@
 /* 
- * Problem: 144 
- * Name: Binary Tree Preorder Traversal
+ * Problem: 145 
+ * Name: Binary Tree Postorder Traversal
  * Difficulty: Easy
  * Topic: Binary Trees
- * Link: https://leetcode.com/problems/binary-tree-preorder-traversal
+ * Link: https://leetcode.com/problems/binary-tree-postorder-traversal
  */
  
+#include <algorithm>
 #include <bits/stdc++.h>
 #include <cstddef>
 using namespace std;
@@ -20,10 +21,10 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
-//      Stack
+//      Reverse Preorder
 // Time Complexity: O(n)
 // Space Complexity: O(n)
-vector<int> preorderTraversal(TreeNode* root) {
+vector<int> postorderTraversal(TreeNode* root) {
     if (root == nullptr) {return {};}
     vector<int> result;
     stack<TreeNode*> remaining;
@@ -34,24 +35,25 @@ vector<int> preorderTraversal(TreeNode* root) {
         remaining.pop();
         result.push_back(current->val);
 
-        if (current->right != nullptr) {remaining.push(current->right);}
         if (current->left != nullptr) {remaining.push(current->left);}
+        if (current->right != nullptr) {remaining.push(current->right);}
     }
+    reverse(result.begin(), result.end());
     return result;
 }
 
 //      Call Stack
 // Time Complexity: O(n)
 // Space Complexity: O(n)
-void preorderHelper(TreeNode* node, vector<int>& result);
-vector<int> preorderTraversal(TreeNode* root) {
+void postorderHelper(TreeNode* node, vector<int>& result);
+vector<int> postorderTraversal(TreeNode* root) {
     vector<int> result;
-    preorderHelper(root, result);
+    postorderHelper(root, result);
     return result;
 }
-void preorderHelper(TreeNode* node, vector<int>& result){
+void postorderHelper(TreeNode* node, vector<int>& result){
     if (node == nullptr) {return;}
+    postorderHelper(node->left, result);
+    postorderHelper(node->right, result);
     result.push_back(node->val);
-    preorderHelper(node->left, result);
-    preorderHelper(node->right, result);
 }
